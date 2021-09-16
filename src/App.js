@@ -23,9 +23,6 @@ function App() {
             <Route path="/gallery">
               <GalleryPage />
             </Route>
-            <Route path="/notes">
-              <NotesPage />
-            </Route>
             <Route path="/days">
               <MyDaysPage />
             </Route>
