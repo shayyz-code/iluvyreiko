@@ -5,6 +5,7 @@ import Layout from './pages/Layout';
 import WelcomePage from './pages/welcome/pageWelcome';
 import PropertiesPage from './pages/properties/pageProperties';
 import GalleryPage from './pages/gallery/pageGallery';
+import NotesPage from './pages/notes/pageNotes';
 import MyDaysPage from './pages/mydays/pageMyDays.js';
 
 function App() {
