@@ -9,8 +9,8 @@ export default function WelcomeHeading({ imgs }) {
       <div style={styles.headingImgGrid}>
         <div style={styles.headingContentGrid}>
           <div style={styles.headingContent}>
-            <h1 style={styles.name}>{!censored ? 'REIKO' : 'AZ'}</h1>
-            <p style={styles.text}>{!censored ? 'Awwzayyy' : 'yes y'}</p>
+            <h1 style={styles.name}>{!censored ? 'RACIST' : 'REIKO'}</h1>
+            <p style={styles.text}>{!censored ? 'kiddo' : 'awwwn'}</p>
           </div>
         </div>
         {imgs.map((imgItem, index) => (
